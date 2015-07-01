@@ -1,0 +1,2 @@
+# LogNoUnicode
+LogNoUnicode
